@@ -1,13 +1,12 @@
 tgcrypto==1.2.5
 pymongo==4.4.1
-motor
+motor==3.1.2
 marshmallow==3.20.1
 umongo==3.1.0
-requests
+requests==2.31.0
 bs4==0.0.1
 cinemagoer==2023.5.1
-datetime
-pytz
+pytz==2023.3
 aiohttp==3.8.3
 psutil==5.9.4
-pyrogram
+pyrogram==2.0.106
