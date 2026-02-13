@@ -10,3 +10,4 @@ datetime
 pytz
 aiohttp==3.8.3
 psutil==5.9.4
+pyrogram
